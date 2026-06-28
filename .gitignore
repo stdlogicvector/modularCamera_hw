@@ -1,0 +1,8 @@
+syntax: glob
+/._DAV
+/Production
+*.b#*
+*.s#*
+*.zip
+*.pdf
+*.old
